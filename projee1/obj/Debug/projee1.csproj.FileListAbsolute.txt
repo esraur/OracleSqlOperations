@@ -1,0 +1,17 @@
+C:\Users\esra.ur\Desktop\projee1\projee1\bin\Debug\projee1.exe.config
+C:\Users\esra.ur\Desktop\projee1\projee1\bin\Debug\projee1.exe
+C:\Users\esra.ur\Desktop\projee1\projee1\bin\Debug\projee1.pdb
+C:\Users\esra.ur\Desktop\projee1\projee1\obj\Debug\projee1.Form1.resources
+C:\Users\esra.ur\Desktop\projee1\projee1\obj\Debug\projee1.Properties.Resources.resources
+C:\Users\esra.ur\Desktop\projee1\projee1\obj\Debug\projee1.csproj.GenerateResource.Cache
+C:\Users\esra.ur\Desktop\projee1\projee1\obj\Debug\projee1.exe
+C:\Users\esra.ur\Desktop\projee1\projee1\obj\Debug\projee1.pdb
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\Esra\OracleSqlOperations\projee1\bin\Debug\projee1.exe.config
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\Esra\OracleSqlOperations\projee1\bin\Debug\projee1.exe
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\Esra\OracleSqlOperations\projee1\bin\Debug\projee1.pdb
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\Esra\OracleSqlOperations\projee1\obj\Debug\projee1.csprojResolveAssemblyReference.cache
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\Esra\OracleSqlOperations\projee1\obj\Debug\projee1.Form1.resources
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\Esra\OracleSqlOperations\projee1\obj\Debug\projee1.Properties.Resources.resources
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\Esra\OracleSqlOperations\projee1\obj\Debug\projee1.csproj.GenerateResource.Cache
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\Esra\OracleSqlOperations\projee1\obj\Debug\projee1.exe
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\Esra\OracleSqlOperations\projee1\obj\Debug\projee1.pdb
